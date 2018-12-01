@@ -1,4 +1,6 @@
 [![travis](https://travis-ci.org/biodancerwangzhi/biodemo.svg?branch=master)](https://travis-ci.org/biodancerwangzhi/biodemo)
+[![codecov](https://codecov.io/github/biodancerwangzhi/biodemo/branch/master/graphs/badge.svg)](https://codecov.io/github/biodancerwangzhi/biodemo)
+
 
 # Overview 
 
