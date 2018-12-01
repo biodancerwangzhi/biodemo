@@ -11,4 +11,4 @@ before_install:
 script:
   - ./functional_tests/biodemo-test.sh -p biodemo -d functional_tests/test_data
   - ./.travis/unit-test.sh
-  - codecov
+  - codecov --token 701aa0ad-be4c-4cdf-8a71-485566c66bed
